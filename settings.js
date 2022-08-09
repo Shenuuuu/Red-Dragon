@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `මම දැන් online😇
+🤷‍♀️කොහොමද උදව් කරන්න ඔනි😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,34 +29,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.vcardowner = ['+94750161089'] // owner number
+global.ownername = "𝚂𝙷𝙴𝙽𝚄" // owner name
 global.location = "India, Mizoram, Aizawl" // location
-
-//bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
-global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
-global.antilink = "false" // To remove group link sharing peoples
+global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
+global.antibad = "true" // To remove bad word senders
+global.antilink = "true" // To remove group link sharing peoples
 global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94750161089']
+global.ownertag = '+94750161089' //your tag number
+global.botname = '𝚂𝙷𝙴𝙽𝚄🥵' //ur bot name
+global.packname = "𝚂𝙷𝙴𝙽𝚄🙈" // sticker packname
+global.author = "𝚂𝙷𝙴𝙽𝚄" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
-
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
-
-//database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94750161089'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -166,7 +157,7 @@ global.rep = { // All Replies = 145
     K3: '😉🫶හායි😂',
     K4: '🥴හූයි😊',
     K5: '😂හේයි, හව් ආ යූ🥴✌️',
-    K6: '😁Hey there💝 I am WhatsApp Bot😏',
+    K6: '😁Hey there💝 I am shenu Bot😏',
     K7: '❣️ඇයි හලෝ😌',
     K8: '🙃මොකෝ හලෝ🥲',
     K9: '😒මොකෝ?',
@@ -269,25 +260,14 @@ global.rep = { // All Replies = 145
     K106: '☝️ගියා නං ආයි එන්නෙපා😒',
     K107: '😅✌️😝',
     K108: '😂😂විහිලු නං කමක් නෑ😌',
-    K109: 'මං තරහයි😒 ඇයි මොකෝ?👎',
-    K110: 'ඇයි පකෝ🥲',
-    K111: 'ලබ්බ😒',
-    K112: 'මොන හුම්තක්ද යකෝ?🙄',
-    K113: '😒පලෑන්න පොන්නය💔',
-    K114: '🥲💔🙏',
+    K109: 'මං තරහයි😒 ඇයි මොකෝ?👎'
+    K110: '🥲💔🙏',
     K115: '🥲🥲💔☝️',
     K116: '😏😑එන්නෙපා ගෑනි ගාගෙන🤨💔💔💔',
     K117: 'දැන්ම බෑ ළමයෝ🤭🤭 පස්සෙ දෙන්නං😝😒',
-    K118: 'මොන පකක්ද?😒',
+    K118: 
     K119: '😒👎',
     K120: 'එහෙම කියන්නෙපා පව්නෙ😒',
-    K121: '🫢🙄',
-    K122: 'අනේ තෝ හුකාගනිං🙂💔',
-    K123: '😐උක්කමු😒😂😂',
-    K124: 'ඇයි🙄 පුකද බලන්නෙ?',
-    K125: 'උබේ දෙක ද?😂',
-    K126: 'උබේ ද?😂',
-    K127: '🥲මං ඇවිත් කටට ගන්නද?😒😝',
     K128: '😂😂හමෝ',
     K129: '😏ඕන්නැත්තං නිකං ඉන්න',
     K130: '🤭නිකං ඉන්න එපා ඇඳුමක් ඇඳගන්න😂❤️',
